@@ -54,5 +54,23 @@
             "size": ["S", "M", "L", "XL", "XXL", "XXXL"],
             "about": "New for Winter 2024, the hooded sweatshirt features the brushed-effect Christian Dior Couture signature in jacquard. Crafted in a black wool blend, it has a classic cut with kangaroo pockets and ribbed finishes. The comfortable hooded sweatshirt will elevate a variety of laid-back looks."
         } 
+    ],
+    "videos": [
+        {
+            "id": 1,
+            "video": "https://vod.freecaster.com/louisvuitton/9c294607-9793-401b-85ea-43dcc6a0ea65/1aqs4xOgY1_12.mp4"
+        },
+        {
+            "id": 2,
+            "video": "https://vod.freecaster.com/louisvuitton/9d325cd1-f1aa-42cc-aaab-1e822ef255d1/Waa2ZNJTKCsidUQqUJSjnw0K_9.mp4"
+        },
+        {
+            "id": 3,
+            "video": "https://vod.freecaster.com/louisvuitton/9c406dc6-0887-43b6-8c3f-0a4f30bf3e98/0svLbAYRyGm5W4LQcp2Qiu6i_9.mp4"
+        },
+        {
+            "id": 4,
+            "video": "https://vod.freecaster.com/louisvuitton/9c28cbb9-873a-4f12-a3ff-919c72486ffe/EIf9JqWlAo_24.mp4"
+        }
     ]
 }
