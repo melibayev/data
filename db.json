@@ -1,76 +1,148 @@
 {
-    "products": [
-        {
-            "id": 1,
-            "desc": "REGULAR-FIT WATER-REPELLENT JACKET WITH DOUBLE MONOGRAM",
-            "img": "https://raw.githubusercontent.com/melibayev/data/main/home_images/img1.webp",
-            "imgs": ["https://raw.githubusercontent.com/melibayev/data/main/home_images/img1(1).jpg", "https://raw.githubusercontent.com/melibayev/data/main/home_images/img1(2).jpg", "https://raw.githubusercontent.com/melibayev/data/main/home_images/img1(3).jpg", "https://raw.githubusercontent.com/melibayev/data/main/home_images/img1(4).jpg"],
-            "price": "$300,00",
-            "size": ["S", "M", "L", "XL", "XXL", "XXXL"],
-            "about": "New for Winter 2024, the hooded sweatshirt features the brushed-effect Christian Dior Couture signature in jacquard. Crafted in a black wool blend, it has a classic cut with kangaroo pockets and ribbed finishes. The comfortable hooded sweatshirt will elevate a variety of laid-back looks."
-        },
-        {
-            "id": 2,
-            "desc": "REGULAR-FIT JACKET IN SUEDE WITH TWO-WAY ZIP",
-            "img": "https://raw.githubusercontent.com/melibayev/data/main/home_images/img2.webp",
-            "imgs": ["https://raw.githubusercontent.com/melibayev/data/main/home_images/img2(1).jpg", "https://raw.githubusercontent.com/melibayev/data/main/home_images/img2(2).jpg", "https://raw.githubusercontent.com/melibayev/data/main/home_images/img2(3).jpg", "https://raw.githubusercontent.com/melibayev/data/main/home_images/img2(4).jpg"],
-            "price": "$500,00",
-            "size": ["S", "M", "L", "XL", "XXL", "XXXL"],
-            "about": "New for Winter 2024, the hooded sweatshirt features the brushed-effect Christian Dior Couture signature in jacquard. Crafted in a black wool blend, it has a classic cut with kangaroo pockets and ribbed finishes. The comfortable hooded sweatshirt will elevate a variety of laid-back looks."
-        },
-        {
-            "id": 3,
-            "desc": "SLIM-FIT COAT IN A COTTON BLEND",
-            "img": "https://raw.githubusercontent.com/melibayev/data/main/home_images/img3.webp",
-            "imgs": ["https://raw.githubusercontent.com/melibayev/data/main/home_images/img3(1).jpg", "https://raw.githubusercontent.com/melibayev/data/main/home_images/img3(2).jpg", "https://raw.githubusercontent.com/melibayev/data/main/home_images/img3(3).jpg", "https://raw.githubusercontent.com/melibayev/data/main/home_images/img3(4).jpg"],
-            "price": "$500,00",
-            "size": ["S", "M", "L", "XL", "XXL", "XXXL"],
-            "about": "New for Winter 2024, the hooded sweatshirt features the brushed-effect Christian Dior Couture signature in jacquard. Crafted in a black wool blend, it has a classic cut with kangaroo pockets and ribbed finishes. The comfortable hooded sweatshirt will elevate a variety of laid-back looks."
-        },
-        {
-            "id": 4,
-            "desc": "COTTON-BLEND T-SHIRT WITH BUBBLE-JACQUARD STRUCTURE",
-            "img": "https://raw.githubusercontent.com/melibayev/data/main/home_images/img4.webp",
-            "imgs": ["https://raw.githubusercontent.com/melibayev/data/main/home_images/img4(1).jpg", "https://raw.githubusercontent.com/melibayev/data/main/home_images/img4(2).jpg", "https://raw.githubusercontent.com/melibayev/data/main/home_images/img4(3).jpg", "https://raw.githubusercontent.com/melibayev/data/main/home_images/img4(4).jpg"],
-            "price": "$80,00",
-            "size": ["S", "M", "L", "XL", "XXL", "XXXL"],
-            "about": "New for Winter 2024, the hooded sweatshirt features the brushed-effect Christian Dior Couture signature in jacquard. Crafted in a black wool blend, it has a classic cut with kangaroo pockets and ribbed finishes. The comfortable hooded sweatshirt will elevate a variety of laid-back looks."
-        },
-        {
-            "id": 5,
-            "desc": "SLEEVELESS COTTON-JERSEY T-SHIRT WITH LOGO LABEL",
-            "img": "https://raw.githubusercontent.com/melibayev/data/main/home_images/img5.webp",
-            "imgs": ["https://raw.githubusercontent.com/melibayev/data/main/home_images/img5(1).jpg", "https://raw.githubusercontent.com/melibayev/data/main/home_images/img5(2).jpg", "https://raw.githubusercontent.com/melibayev/data/main/home_images/img5(3).jpg", "https://raw.githubusercontent.com/melibayev/data/main/home_images/img5(4).jpg"],
-            "price": "$40,00",
-            "size": ["S", "M", "L", "XL", "XXL", "XXXL"],
-            "about": "New for Winter 2024, the hooded sweatshirt features the brushed-effect Christian Dior Couture signature in jacquard. Crafted in a black wool blend, it has a classic cut with kangaroo pockets and ribbed finishes. The comfortable hooded sweatshirt will elevate a variety of laid-back looks."
-        },
-        {
-            "id": 6,
-            "desc": "COTTON-JERSEY T-SHIRT WITH LOGO PRINT",
-            "img": "https://raw.githubusercontent.com/melibayev/data/main/home_images/img6.webp",
-            "imgs": ["https://raw.githubusercontent.com/melibayev/data/main/home_images/img6(1).jpg", "https://raw.githubusercontent.com/melibayev/data/main/home_images/img6(2).jpg", "https://raw.githubusercontent.com/melibayev/data/main/home_images/img6(3).jpg", "https://raw.githubusercontent.com/melibayev/data/main/home_images/img6(4).jpg"],
-            "price": "$40,00",
-            "size": ["S", "M", "L", "XL", "XXL", "XXXL"],
-            "about": "New for Winter 2024, the hooded sweatshirt features the brushed-effect Christian Dior Couture signature in jacquard. Crafted in a black wool blend, it has a classic cut with kangaroo pockets and ribbed finishes. The comfortable hooded sweatshirt will elevate a variety of laid-back looks."
-        } 
-    ],
-    "videos": [
-        {
-            "id": 1,
-            "video": "https://vod.freecaster.com/louisvuitton/9c294607-9793-401b-85ea-43dcc6a0ea65/1aqs4xOgY1_12.mp4"
-        },
-        {
-            "id": 2,
-            "video": "https://vod.freecaster.com/louisvuitton/9d325cd1-f1aa-42cc-aaab-1e822ef255d1/Waa2ZNJTKCsidUQqUJSjnw0K_9.mp4"
-        },
-        {
-            "id": 3,
-            "video": "https://vod.freecaster.com/louisvuitton/9c406dc6-0887-43b6-8c3f-0a4f30bf3e98/0svLbAYRyGm5W4LQcp2Qiu6i_9.mp4"
-        },
-        {
-            "id": 4,
-            "video": "https://vod.freecaster.com/louisvuitton/9c28cbb9-873a-4f12-a3ff-919c72486ffe/EIf9JqWlAo_24.mp4"
-        }
-    ]
+  "products": [
+    {
+      "id": 1,
+      "desc": "REGULAR-FIT WATER-REPELLENT JACKET WITH DOUBLE MONOGRAM",
+      "img": "https://raw.githubusercontent.com/melibayev/data/main/home_images/img1.webp",
+      "imgs": [
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/img1(1).jpg",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/img1(2).jpg",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/img1(3).jpg",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/img1(4).jpg"
+      ],
+      "price": "$300,00",
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "XXXL"
+      ],
+      "about": "New for Winter 2025, the hooded sweatshirt features the brushed-effect Christian Dior Couture signature in jacquard. Crafted in a black wool blend, it has a classic cut with kangaroo pockets and ribbed finishes. The comfortable hooded sweatshirt will elevate a variety of laid-back looks."
+    },
+    {
+      "id": 2,
+      "desc": "REGULAR-FIT JACKET IN SUEDE WITH TWO-WAY ZIP",
+      "img": "https://raw.githubusercontent.com/melibayev/data/main/home_images/img2.webp",
+      "imgs": [
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/img2(1).jpg",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/img2(2).jpg",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/img2(3).jpg",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/img2(4).jpg"
+      ],
+      "price": "$500,00",
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "XXXL"
+      ],
+      "about": "New for Winter 2024, the hooded sweatshirt features the brushed-effect Christian Dior Couture signature in jacquard. Crafted in a black wool blend, it has a classic cut with kangaroo pockets and ribbed finishes. The comfortable hooded sweatshirt will elevate a variety of laid-back looks."
+    },
+    {
+      "id": 3,
+      "desc": "SLIM-FIT COAT IN A COTTON BLEND",
+      "img": "https://raw.githubusercontent.com/melibayev/data/main/home_images/img3.webp",
+      "imgs": [
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/img3(1).jpg",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/img3(2).jpg",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/img3(3).jpg",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/img3(4).jpg"
+      ],
+      "price": "$500,00",
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "XXXL"
+      ],
+      "about": "New for Winter 2024, the hooded sweatshirt features the brushed-effect Christian Dior Couture signature in jacquard. Crafted in a black wool blend, it has a classic cut with kangaroo pockets and ribbed finishes. The comfortable hooded sweatshirt will elevate a variety of laid-back looks."
+    },
+    {
+      "id": 4,
+      "desc": "COTTON-BLEND T-SHIRT WITH BUBBLE-JACQUARD STRUCTURE",
+      "img": "https://raw.githubusercontent.com/melibayev/data/main/home_images/img4.webp",
+      "imgs": [
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/img4(1).jpg",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/img4(2).jpg",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/img4(3).jpg",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/img4(4).jpg"
+      ],
+      "price": "$80,00",
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "XXXL"
+      ],
+      "about": "New for Winter 2024, the hooded sweatshirt features the brushed-effect Christian Dior Couture signature in jacquard. Crafted in a black wool blend, it has a classic cut with kangaroo pockets and ribbed finishes. The comfortable hooded sweatshirt will elevate a variety of laid-back looks."
+    },
+    {
+      "id": 5,
+      "desc": "SLEEVELESS COTTON-JERSEY T-SHIRT WITH LOGO LABEL",
+      "img": "https://raw.githubusercontent.com/melibayev/data/main/home_images/img5.webp",
+      "imgs": [
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/img5(1).jpg",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/img5(2).jpg",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/img5(3).jpg",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/img5(4).jpg"
+      ],
+      "price": "$40,00",
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "XXXL"
+      ],
+      "about": "New for Winter 2024, the hooded sweatshirt features the brushed-effect Christian Dior Couture signature in jacquard. Crafted in a black wool blend, it has a classic cut with kangaroo pockets and ribbed finishes. The comfortable hooded sweatshirt will elevate a variety of laid-back looks."
+    },
+    {
+      "id": 6,
+      "desc": "COTTON-JERSEY T-SHIRT WITH LOGO PRINT",
+      "img": "https://raw.githubusercontent.com/melibayev/data/main/home_images/img6.webp",
+      "imgs": [
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/img6(1).jpg",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/img6(2).jpg",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/img6(3).jpg",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/img6(4).jpg"
+      ],
+      "price": "$40,00",
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "XXXL"
+      ],
+      "about": "New for Winter 2024, the hooded sweatshirt features the brushed-effect Christian Dior Couture signature in jacquard. Crafted in a black wool blend, it has a classic cut with kangaroo pockets and ribbed finishes. The comfortable hooded sweatshirt will elevate a variety of laid-back looks."
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "video": "https://vod.freecaster.com/louisvuitton/9c294607-9793-401b-85ea-43dcc6a0ea65/1aqs4xOgY1_12.mp4"
+    },
+    {
+      "id": 2,
+      "video": "https://vod.freecaster.com/louisvuitton/9d325cd1-f1aa-42cc-aaab-1e822ef255d1/Waa2ZNJTKCsidUQqUJSjnw0K_9.mp4"
+    },
+    {
+      "id": 3,
+      "video": "https://vod.freecaster.com/louisvuitton/9c406dc6-0887-43b6-8c3f-0a4f30bf3e98/0svLbAYRyGm5W4LQcp2Qiu6i_9.mp4"
+    },
+    {
+      "id": 4,
+      "video": "https://vod.freecaster.com/louisvuitton/9c28cbb9-873a-4f12-a3ff-919c72486ffe/EIf9JqWlAo_24.mp4"
+    }
+  ]
 }
