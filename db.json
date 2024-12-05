@@ -137,6 +137,31 @@
       "about": "New for Winter 2024, the hooded sweatshirt features the brushed-effect Christian Dior Couture signature in jacquard. Crafted in a black wool blend, it has a classic cut with kangaroo pockets and ribbed finishes. The comfortable hooded sweatshirt will elevate a variety of laid-back looks.",
       "category": "t-shirts",
       "gender": "male"
+    },
+    {
+      "id": "129470d9-2904-4ce4-acc3-8a041b4ed2ac",
+      "desc": "Italian-leather Derby shoes with cap toe",
+      "img": "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbna50520873_203_200.jpg",
+      "imgs": [
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbna50520873_203_200.jpg",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbna50520873_203_220.jpg",
+        " https://raw.githubusercontent.com/melibayev/data/main/home_images/hbna50520873_203_250.jpg",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbna50520873_203_210.jpg"
+      ],
+      "price": "448.00",
+      "size": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "about": "Elevated Derby shoes with a cap toe and punch-hole details by BOSS. This Italian-made pair is crafted in Italian Buttero leather.\nUpper material: 100% Calfskin, Lining: 100% Yak, Sole: 74% Thermoplastic polyurethane , 26% Leather, Innersole: 100% Yak",
+      "category": "shoes",
+      "gender": "male"
     }
   ],
   "videos": [
