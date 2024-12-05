@@ -186,6 +186,30 @@
       "about": "Jodhpur boots with a strap and branded buckle by BOSS. This Italian-made pair is crafted in smooth leather with a zip closure.Upper material: 100% Calfskin, Lining: 100% Goat leather, 100% Calfskin, Sole: 71% Leather, 22% Regenerated leather, 7% Rubber, Innersole: 100% Calfskin",
       "category": "shoes",
       "gender": "male"
+    },
+    {
+      "id": "8e852e00-3bf3-4d03-b684-8e238fd430d1",
+      "desc": "Mixed-material trainers with logo flag",
+      "img": "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbna50542721_126_200.jpg",
+      "imgs": [
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbna50542721_126_200.jpg",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbna50542721_126_300.jpg",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbna50542721_126_220.jpg",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbna50542721_126_250.jpg",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbna50542721_126_210.jpg"
+      ],
+      "price": "$199,00",
+      "size": [
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "about": "Signature trainers with textured and smooth accents by HUGO Menswear. This pair features logo trims including a branded flag.    Upper material: 100% Polyester (recycled) , Lining: 100% Polyester, Sole: 75% Ethylene vinyl acetate, 25% Rubber, Facing: 55% Polyurethane, 45% Polyester, Innersole: 100% Polyester",
+      "category": "shoes",
+      "gender": "male"
     }
   ],
   "videos": [
