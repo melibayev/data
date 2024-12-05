@@ -162,6 +162,30 @@
       "about": "Elevated Derby shoes with a cap toe and punch-hole details by BOSS. This Italian-made pair is crafted in Italian Buttero leather.\nUpper material: 100% Calfskin, Lining: 100% Yak, Sole: 74% Thermoplastic polyurethane , 26% Leather, Innersole: 100% Yak",
       "category": "shoes",
       "gender": "male"
+    },
+    {
+      "id": "129470d9-2904-4ce4-acc3-8a041b4ed2ac",
+      "desc": "Leather jodhpur boots with zip closure and buckled strap",
+      "img": "https://raw.githubusercontent.com/melibayev/data/main/home_images/shoes.jpg",
+      "imgs": [
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/shoes.jpg",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/shoes1.jpg",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/shoes2.jpg",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/shoes3.jpg",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbna50524857_001_210.jpg"
+      ],
+      "price": "$1295",
+      "size": [
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "about": "Jodhpur boots with a strap and branded buckle by BOSS. This Italian-made pair is crafted in smooth leather with a zip closure.Upper material: 100% Calfskin, Lining: 100% Goat leather, 100% Calfskin, Sole: 71% Leather, 22% Regenerated leather, 7% Rubber, Innersole: 100% Calfskin",
+      "category": "shoes",
+      "gender": "male"
     }
   ],
   "videos": [
