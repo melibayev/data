@@ -210,6 +210,30 @@
       "about": "Signature trainers with textured and smooth accents by HUGO Menswear. This pair features logo trims including a branded flag.    Upper material: 100% Polyester (recycled) , Lining: 100% Polyester, Sole: 75% Ethylene vinyl acetate, 25% Rubber, Facing: 55% Polyurethane, 45% Polyester, Innersole: 100% Polyester",
       "category": "shoes",
       "gender": "male"
+    },
+    {
+      "id": "55c8564e-0639-44a2-91d2-6318160becfd",
+      "desc": "Suede half boots with side zip and signature accents",
+      "img": "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbna50523022_201_200.jpg",
+      "imgs": [
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbna50523022_201_200.jpg",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbna50523022_201_300.jpg",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbna50523022_201_220.jpg",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbna50523022_201_250.jpg",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbna50523022_201_210.jpg"
+      ],
+      "price": "$348,00",
+      "size": [
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44"
+      ],
+      "about": "Portuguese-made half boots by BOSS. Featuring a side zip and brogueing details, this pair is crafted in soft suede with signature accents.  Upper material: 100% Cow leather, Lining: 100% Cow leather, Sole: 100% Rubber, Innersole: 100% Cow leather",
+      "category": "shoes",
+      "gender": "male"
     }
   ],
   "videos": [
