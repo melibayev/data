@@ -234,6 +234,30 @@
       "about": "Portuguese-made half boots by BOSS. Featuring a side zip and brogueing details, this pair is crafted in soft suede with signature accents.  Upper material: 100% Cow leather, Lining: 100% Cow leather, Sole: 100% Rubber, Innersole: 100% Cow leather",
       "category": "shoes",
       "gender": "male"
+    },
+    {
+      "id": "2f1c030b-9a57-4bed-b781-c2100acac0c3",
+      "desc": "Gary suede low-top trainers with branded lace loop",
+      "img": "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbna50534292_224_200.jpg",
+      "imgs": [
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbna50534292_224_200.jpg",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbna50534292_224_300.jpg",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbna50534292_224_220.jpg",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbna50534292_224_250.jpg",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbna50534292_224_210.jpg"
+      ],
+      "price": "$545,00",
+      "size": [
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44"
+      ],
+      "about": "Modern low-top trainers crafted in soft suede with partially hidden laces and a logo-detail loop by BOSS.Upper material: 100% Calfskin, Lining: 100% Calfskin, 60% Polyester, 40% Polyurethane, Sole: 90% Rubber, 10% Thermoplastic polyurethane , Facing: 100% Calfskin, Innersole: 100% Calfskin",
+      "category": "shoes",
+      "gender": "male"
     }
   ],
   "videos": [
