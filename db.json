@@ -236,17 +236,17 @@
       "gender": "male"
     },
     {
-      "id": "2f1c030b-9a57-4bed-b781-c2100acac0c3",
-      "desc": "Gary suede low-top trainers with branded lace loop",
-      "img": "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbna50534292_224_200.jpg",
+      "id": "eaa17d59-f189-4b11-9963-e3e55a551d22",
+      "desc": "Suede penny loafers with rubber sole",
+      "img": "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbna50534292_401_200.jpg",
       "imgs": [
-        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbna50534292_224_200.jpg",
-        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbna50534292_224_300.jpg",
-        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbna50534292_224_220.jpg",
-        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbna50534292_224_250.jpg",
-        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbna50534292_224_210.jpg"
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbna50534292_401_200.jpg",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbna50534292_401_300.jpg",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbna50534292_401_220.jpg",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbna50534292_401_250.jpg",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbna50534292_401_210.jpg"
       ],
-      "price": "$545,00",
+      "price": "349,00",
       "size": [
         "39",
         "40",
