@@ -258,6 +258,30 @@
       "about": "Modern low-top trainers crafted in soft suede with partially hidden laces and a logo-detail loop by BOSS.Upper material: 100% Calfskin, Lining: 100% Calfskin, 60% Polyester, 40% Polyurethane, Sole: 90% Rubber, 10% Thermoplastic polyurethane , Facing: 100% Calfskin, Innersole: 100% Calfskin",
       "category": "shoes",
       "gender": "male"
+    },
+    {
+      "id": "4d6e10eb-0309-4307-aa0f-fdfc58137d9d",
+      "desc": "Grained-leather monk shoes with double strap",
+      "img": "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbna50536173_260_200.jpg",
+      "imgs": [
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbna50536173_260_200.jpg",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbna50536173_260_300.jpg",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbna50536173_260_220.jpg",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbna50536173_260_250.jpg",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbna50536173_260_210.jpg"
+      ],
+      "price": "415,00",
+      "size": [
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44"
+      ],
+      "about": "Modern low-top trainers crafted in soft suede with partially hidden laces and a logo-detail loop by BOSS.Upper material: 100% Calfskin, Lining: 100% Calfskin, 60% Polyester, 40% Polyurethane, Sole: 90% Rubber, 10% Thermoplastic polyurethane , Facing: 100% Calfskin, Innersole: 100% Calfskin",
+      "category": "shoes",
+      "gender": "male"
     }
   ],
   "videos": [
