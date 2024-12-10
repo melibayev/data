@@ -549,16 +549,16 @@
       "gender": "male"
     },
     {
-      "id": "3c90cc35-3457-4763-8732-b18dec48a439",
-      "desc": "Herringbone slim-fit coat with detachable zip-up inner",
-      "img": "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50528131_030_350.webp",
+      "id": "ee2d3c26-d069-4d6b-98c3-fe359e08c67d",
+      "desc": "BOSS x ASTON MARTIN wool-blend coat with detachable inner jacket",
+      "img": "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50525298_259_350.webp",
       "imgs": [
-        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50528131_030_350.webp",
-        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50528131_030_340.webp",
-        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50528131_030_300.webp",
-        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50528131_030_360.webp",
-        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50528131_030_341.webp",
-        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50528131_030_100.webp"
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50525298_259_350.webp",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50525298_259_340.webp",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50525298_259_300.webp",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50525298_259_360.webp",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50525298_259_341.webp",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50525298_259_100.webp"
       ],
       "price": "$499,00",
       "size": [
@@ -573,18 +573,18 @@
       "gender": "male"
     },
     {
-      "id": "bfc1c5aa-d417-4512-8bed-61071dddbe6c",
-      "desc": "Water-repellent jacket with detachable hood",
-      "img": "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50524964_361_350.webp",
+      "id": "758bf443-3e23-4f56-ba27-f67ecf5efa9f",
+      "desc": "Water-repellent puffer jacket with logo detail",
+      "img": "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50525109_404_350.webp",
       "imgs": [
-        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50524964_361_350.webp",
-        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50524964_361_300.webp",
-        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50524964_361_360.webp",
-        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50524964_361_340.webp",
-        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50524964_361_341.webp",
-        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50524964_361_100.webp"
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50525109_404_350.webp",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50525109_404_300.webp",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50525109_404_360.webp",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50525109_404_340.webp",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50525109_404_341.webp",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50525109_404_100.webp"
       ],
-      "price": "$642,00",
+      "price": "$399,00",
       "size": [
         "S",
         "M",
@@ -597,18 +597,42 @@
       "gender": "male"
     },
     {
-      "id": "2a0506e7-b1c3-457d-93e4-6858c0248755",
-      "desc": "Water-repellent jacket with detachable hood",
-      "img": "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50524964_404_350.webp",
+      "id": "6987a2c6-9cfe-46f5-bfed-bba9e4300670",
+      "desc": "Water-repellent puffer jacket with logo detail",
+      "img": "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50525109_485_350.webp",
       "imgs": [
-        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50524964_404_350.webp",
-        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50524964_404_300.webp",
-        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50524964_404_360.webp",
-        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50524964_404_340.webp",
-        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50524964_404_341.webp",
-        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50524964_404_100.webp"
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50525109_485_350.webp",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50525109_485_300.webp",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50525109_485_360.webp",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50525109_485_340.webp",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50525109_485_341.webp",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50525109_485_100.webp"
       ],
-      "price": "$485,00",
+      "price": "$499,00",
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "about": "A classic coat with a relaxed fit and double-breasted closure by BOSS. This fully lined piece has a subtle micro pattern. The aim of using recycled materials is to save resources.Quality: 70% Wool (recycled), 30% Polyamid, Sleeve lining: 100% Viscose, pocketing: 100% Cotton, Body Lining: 100% Viscose",
+      "category": "coats casual-coats paskas",
+      "gender": "male"
+    },
+    {
+      "id": "530cbb8e-91c2-41df-9719-861804a3f460",
+      "desc": "Water-repellent jacket with down filling",
+      "img": "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50531126_001_350.webp",
+      "imgs": [
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50531126_001_350.webp",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50531126_001_300.webp",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50531126_001_360.webp",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50531126_001_340.webp",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50531126_001_341.webp",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50533548_001_100.webp"
+      ],
+      "price": "$599,00",
       "size": [
         "S",
         "M",
@@ -621,18 +645,18 @@
       "gender": "male"
     },
     {
-      "id": "9b3272eb-91b6-4922-aea7-a983e1d677a1",
-      "desc": "Regular-fit coat in water-repellent stretch flannel",
-      "img": "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50528649_030_350.webp",
+      "id": "24909f4d-5ba3-4c61-beb4-c99d1cce272c",
+      "desc": "Water-repellent parka jacket with detachable fleece trim",
+      "img": "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50533548_001_350.webp",
       "imgs": [
-        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50528649_030_350.webp",
-        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50528649_030_340.webp",
-        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50528649_030_300.webp",
-        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50528649_030_360.webp",
-        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50528649_030_341.webp",
-        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50528649_030_100.webp"
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50533548_001_350.webp",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50533548_001_300.webp",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50533548_001_360.webp",
+        "mhttps://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50533548_001_340.webp",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50533548_001_341.webp",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50533548_001_100.webp"
       ],
-      "price": "$488,00",
+      "price": "$799,00",
       "size": [
         "S",
         "M",
@@ -641,55 +665,7 @@
         "XXL"
       ],
       "about": "A classic coat with a relaxed fit and double-breasted closure by BOSS. This fully lined piece has a subtle micro pattern. The aim of using recycled materials is to save resources.Quality: 70% Wool (recycled), 30% Polyamid, Sleeve lining: 100% Viscose, pocketing: 100% Cotton, Body Lining: 100% Viscose",
-      "category": "coats parkas",
-      "gender": "male"
-    },
-    {
-      "id": "c4deeac8-aa06-4652-bfde-208b63052c8a",
-      "desc": "Down-blend hooded jacket with removable gilet",
-      "img": "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50530592_376_350.webp",
-      "imgs": [
-        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50530592_376_350.webp",
-        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50530592_376_300.webp",
-        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50530592_376_360.webp",
-        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50530592_376_340.webp",
-        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50530592_376_341.webp",
-        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50530592_376_100.webp"
-      ],
-      "price": "$488,00",
-      "size": [
-        "S",
-        "M",
-        "L",
-        "XL",
-        "XXL"
-      ],
-      "about": "A classic coat with a relaxed fit and double-breasted closure by BOSS. This fully lined piece has a subtle micro pattern. The aim of using recycled materials is to save resources.Quality: 70% Wool (recycled), 30% Polyamid, Sleeve lining: 100% Viscose, pocketing: 100% Cotton, Body Lining: 100% Viscose",
-      "category": "coats parkas",
-      "gender": "male"
-    },
-    {
-      "id": "6491232a-a30a-4dc7-89f1-5785bb4af281",
-      "desc": "Relaxed-fit coat in wool-blend velour",
-      "img": "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50538689_089_300.webp",
-      "imgs": [
-        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50538689_089_300.webp",
-        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50538689_089_340.webp",
-        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50538689_089_350.webp",
-        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50538689_089_360.webp",
-        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50538689_089_341.webp",
-        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50538689_089_100.webp"
-      ],
-      "price": "$1200,00",
-      "size": [
-        "S",
-        "M",
-        "L",
-        "XL",
-        "XXL"
-      ],
-      "about": "A classic coat with a relaxed fit and double-breasted closure by BOSS. This fully lined piece has a subtle micro pattern. The aim of using recycled materials is to save resources.Quality: 70% Wool (recycled), 30% Polyamid, Sleeve lining: 100% Viscose, pocketing: 100% Cotton, Body Lining: 100% Viscose",
-      "category": "coats formal-coats",
+      "category": "coats casual-coats parkas",
       "gender": "male"
     }
   ],
