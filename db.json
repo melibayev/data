@@ -330,6 +330,31 @@
       "about": "A classic coat with a relaxed fit and double-breasted closure by BOSS. This fully lined piece has a subtle micro pattern. The aim of using recycled materials is to save resources.Quality: 70% Wool (recycled), 30% Polyamid, Sleeve lining: 100% Viscose, pocketing: 100% Cotton, Body Lining: 100% Viscose",
       "category": "coats formal-coats",
       "gender": "male"
+    },
+    {
+      "id": "ef92e321-0111-4da3-8119-619887a175da",
+      "desc": "Water-repellent coat in micro-patterned virgin wool",
+      "img": "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50521404_376_350.webp",
+      "imgs": [
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50521404_376_350.webp",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50521404_376_340.webp",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50521404_376_300.webp",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50521404_376_360.webp",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50521404_376_341.webp",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50521404_376_342.webp",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50521404_376_100.webp"
+      ],
+      "price": "$799,00",
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "about": "A classic coat with a relaxed fit and double-breasted closure by BOSS. This fully lined piece has a subtle micro pattern. The aim of using recycled materials is to save resources.Quality: 70% Wool (recycled), 30% Polyamid, Sleeve lining: 100% Viscose, pocketing: 100% Cotton, Body Lining: 100% Viscose",
+      "category": "coats formal-coats",
+      "gender": "male"
     }
   ],
   "videos": [
