@@ -643,6 +643,30 @@
       "about": "A classic coat with a relaxed fit and double-breasted closure by BOSS. This fully lined piece has a subtle micro pattern. The aim of using recycled materials is to save resources.Quality: 70% Wool (recycled), 30% Polyamid, Sleeve lining: 100% Viscose, pocketing: 100% Cotton, Body Lining: 100% Viscose",
       "category": "coats parkas",
       "gender": "male"
+    },
+    {
+      "id": "c4deeac8-aa06-4652-bfde-208b63052c8a",
+      "desc": "Down-blend hooded jacket with removable gilet",
+      "img": "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50530592_376_350.webp",
+      "imgs": [
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50530592_376_350.webp",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50530592_376_300.webp",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50530592_376_360.webp",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50530592_376_340.webp",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50530592_376_341.webp",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50530592_376_100.webp"
+      ],
+      "price": "$488,00",
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "about": "A classic coat with a relaxed fit and double-breasted closure by BOSS. This fully lined piece has a subtle micro pattern. The aim of using recycled materials is to save resources.Quality: 70% Wool (recycled), 30% Polyamid, Sleeve lining: 100% Viscose, pocketing: 100% Cotton, Body Lining: 100% Viscose",
+      "category": "coats parkas",
+      "gender": "male"
     }
   ],
   "videos": [
