@@ -547,6 +547,30 @@
       "about": "A classic coat with a relaxed fit and double-breasted closure by BOSS. This fully lined piece has a subtle micro pattern. The aim of using recycled materials is to save resources.Quality: 70% Wool (recycled), 30% Polyamid, Sleeve lining: 100% Viscose, pocketing: 100% Cotton, Body Lining: 100% Viscose",
       "category": "coats formal-coats",
       "gender": "male"
+    },
+    {
+      "id": "ee2d3c26-d069-4d6b-98c3-fe359e08c67d",
+      "desc": "BOSS x ASTON MARTIN wool-blend coat with detachable inner jacket",
+      "img": "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50525298_259_350.webp",
+      "imgs": [
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50525298_259_350.webp",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50525298_259_340.webp",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50525298_259_300.webp",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50525298_259_360.webp",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50525298_259_341.webp",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50525298_259_100.webp"
+      ],
+      "price": "$499,00",
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "about": "A classic coat with a relaxed fit and double-breasted closure by BOSS. This fully lined piece has a subtle micro pattern. The aim of using recycled materials is to save resources.Quality: 70% Wool (recycled), 30% Polyamid, Sleeve lining: 100% Viscose, pocketing: 100% Cotton, Body Lining: 100% Viscose",
+      "category": "coats formal-coats",
+      "gender": "male"
     }
   ],
   "videos": [
