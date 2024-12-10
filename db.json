@@ -595,6 +595,30 @@
       "about": "A classic coat with a relaxed fit and double-breasted closure by BOSS. This fully lined piece has a subtle micro pattern. The aim of using recycled materials is to save resources.Quality: 70% Wool (recycled), 30% Polyamid, Sleeve lining: 100% Viscose, pocketing: 100% Cotton, Body Lining: 100% Viscose",
       "category": "coats casual-coats parkas",
       "gender": "male"
+    },
+    {
+      "id": "6987a2c6-9cfe-46f5-bfed-bba9e4300670",
+      "desc": "Water-repellent puffer jacket with logo detail",
+      "img": "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50525109_485_350.webp",
+      "imgs": [
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50525109_485_350.webp",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50525109_485_300.webp",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50525109_485_360.webp",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50525109_485_340.webp",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50525109_485_341.webp",
+        "https://raw.githubusercontent.com/melibayev/data/main/home_images/hbeu50525109_485_100.webp"
+      ],
+      "price": "$499,00",
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "about": "A classic coat with a relaxed fit and double-breasted closure by BOSS. This fully lined piece has a subtle micro pattern. The aim of using recycled materials is to save resources.Quality: 70% Wool (recycled), 30% Polyamid, Sleeve lining: 100% Viscose, pocketing: 100% Cotton, Body Lining: 100% Viscose",
+      "category": "coats casual-coats paskas",
+      "gender": "male"
     }
   ],
   "videos": [
